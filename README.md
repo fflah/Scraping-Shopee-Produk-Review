@@ -14,4 +14,4 @@ waktu transaksi       | waktu user transaksi
 - Buat virtual environment -> python -m venv env
 - Activate environment -> source env/bin/activate (linux dan mac)
 - Install requirement.txt ->  pip install -r requirements.txt
-- Jalankan scraping_eprint_ums.py -> python main.py
+- Jalankan -> python main.py
