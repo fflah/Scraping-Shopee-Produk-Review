@@ -14,4 +14,7 @@ waktu transaksi       | waktu user transaksi
 - Buat virtual environment -> python -m venv env
 - Activate environment -> source env/bin/activate (linux dan mac)
 - Install requirement.txt ->  pip install -r requirements.txt
+- Cara mendapatkan cookies.json (Ref https://fajrulfalah18.medium.com/melewati-sistem-auth-website-di-selenium-emang-bisa-8d88a8a177e8)
+- Cara mendapatkan url Shoppe
 - Jalankan -> python main.py
+
